@@ -3,6 +3,11 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"author":"clionel",
+	"description":"cut throats and i feel better",
+	"keywords":["freecodecamp", "flux"],
+	"license": "Labyrinth",
+	"version": "1.0",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
